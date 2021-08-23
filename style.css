@@ -17,7 +17,7 @@ padding:0;}
 }
 .imagemdegato{
         display: block;
-        background-image: url("/Imagens/4.jpg");
+        background-image: url("https://huilde.github.io/huilde/4.jpg");
         width:100vw;
         height: 750px;
         background-size: cover;
