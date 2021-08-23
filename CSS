@@ -1,0 +1,236 @@
+*{margin:0;
+padding:0;}
+.menu{
+        display: block;
+        background-color:#fff;
+        height: 640px;
+        width: 100vw;
+}
+.texto{
+        margin: 32px;
+        font-size: 24px;
+        font-family:sans-serif;
+        text-align: center;
+        font-weight:bold;
+        color: #9FC6FF;
+
+}
+.imagemdegato{
+        display: block;
+        background-image: url("/Imagens/4.jpg");
+        width:100vw;
+        height: 750px;
+        background-size: cover;
+        background-position:center;
+}
+.bloco{
+        padding-top: auto;
+        padding-bottom: auto;
+        display:block;
+        align-items: center;
+        width: 100vw;
+        height: 340px;
+        background-color: #9FC6FF;
+
+
+
+}
+.textos{
+        margin: auto;
+        padding-top: 120px;
+        font-family:sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 33px;
+        text-align: center;
+        color: white;
+        width: 770px;
+
+}
+.textinho{
+        margin: auto;
+        font-family:sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 33px;
+        text-align: center;
+        color: white;
+        width: 770px;
+
+        }
+/*.imagemprincipal{ 
+max-width: 100%;
+height: auto;
+}*/
+.fotodecachorro{
+height: 336px;
+width:100px;  
+}
+.footer{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 200px;
+}
+.fonte{
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+}
+
+.fotosdegato{
+justify-content: center;
+margin-right: auto;
+
+padding: auto;
+display: flex;
+align-content: space-around;
+align-items: center;
+height:821px;
+}
+.Textodosgatos{
+text-align: center;
+color: #9FC6FF;
+font-size: 24px;
+font-family: sans-serif;
+margin: 15px;
+}
+
+.descricao{
+text-align: center;
+width: 370px;
+font-family: sans-serif;
+color: #464646;
+margin: 15px;
+}
+.textoprincipal{
+position: absolute;
+left: 165px;
+top:332px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 56px;
+color: #FFFFFF;
+}
+.textosecundario{
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+color: white;
+height:76px;
+width: 435px;
+text-align: left;
+position: absolute;
+left: 165px;
+top:459px;
+}
+.primario{
+height:60px;
+width:270px; 
+border-radius: 5px;
+background-color:#9FC6FF;
+color: #464646;
+font-size: 18px;
+font-family: sans-serif;
+position: absolute;
+left: 165px;
+top: 560px;
+
+}
+.primario:hover{
+
+background:#C2DBFF;
+}
+.Formulario{ 
+display: flex;
+align-items: center;
+justify-content: center;
+align-tracks: center;
+background-color:#9FC6FF;
+height: 820px;
+}
+
+.caixa{
+height:560px;
+width:570px;
+background-color: white;
+border-radius: 5px;
+padding-top: 86px;
+
+
+}
+.cadastro{
+font-style: normal;
+font-weight: bold;
+font-family: sans-serif;
+font-size: 24px;
+color:#464646;
+
+}
+.ja{
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+}
+
+.email{
+margin-bottom:10px;
+ margin-top: 45px;
+ color: #464646;
+ font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+
+}
+.caixaderesposta{
+border-radius: 5px;
+width:370px;
+height:51px;
+color: #C9C9C9;
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+}
+.botaocadastro{
+margin: 30px;
+margin-left:0px;
+width: 170px;
+height: 60px;
+background-color: #9FC6FF;
+border-radius: 5px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+color:#464646;
+}
+.botaolimpar{
+background: #FFFFFF;
+border: 1px solid #C1C1C1;
+box-sizing: border-box;
+border-radius: 5px;
+width:170px;
+height: 60px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+color:#C1C1C1;
+}
+.botaocadastro:hover{
+background-color:#C2DBFF;
+}
