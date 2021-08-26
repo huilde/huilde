@@ -144,7 +144,7 @@ font-family: sans-serif;
 position: absolute;
 left: 165px;
 top: 560px;
-
+cursor:pointer;
 }
 .primario:hover{
 
