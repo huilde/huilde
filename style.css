@@ -86,7 +86,7 @@ line-height: 20px;
 .fotosdegato{
 justify-content: center;
 margin-right: auto;
-
+flex-wrap:wrap;
 padding: auto;
 display: flex;
 align-content: space-around;
