@@ -28,6 +28,8 @@ padding:0;}
         padding-bottom: auto;
         display:block;
         align-items: center;
+        align-content: center;
+        justify-content: center;
         width: 100vw;
         height: 340px;
         background-color: #9FC6FF;
@@ -48,6 +50,7 @@ padding:0;}
 
 }
 .textinho{
+        display:block;
         margin: auto;
         font-family:sans-serif;
         font-style: normal;
